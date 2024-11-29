@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>UrlShortenerDependencyInjection</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+`1
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
